@@ -1,0 +1,1 @@
+This project consists of building recipe pages in html in order to get used with general html, links and images.
